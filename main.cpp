@@ -2,7 +2,8 @@
 
 int main() {
 	int apa = 100;
-	std::cout("Welcome to Sweden\n" + apa);
+	std::string str = "korv";
+	std::cout("Welcome to Sweden\n" + apa + "I like falu" + str);
 
 }
 
